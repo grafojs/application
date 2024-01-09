@@ -1,0 +1,9 @@
+{
+    "name": "@grafo/application",
+    "version": "0.0.1",
+    "main": "src/index",
+    "dependencies": {
+        "@grafo/injector": "workspace:*",
+        "@grafo/common": "workspace:*"
+    }
+}
