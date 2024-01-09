@@ -1,6 +1,7 @@
 {
     "name": "@grafo/common",
     "version": "0.0.1",
+    "repository": "https://github.com/grafojs/application",
     "main": "src/index",
     "dependencies": {
         "reflect-metadata": "^0.1.13"

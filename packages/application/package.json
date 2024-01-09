@@ -1,6 +1,7 @@
 {
     "name": "@grafo/application",
     "version": "0.0.1",
+    "repository": "https://github.com/grafojs/application",
     "main": "src/index",
     "dependencies": {
         "@grafo/injector": "workspace:*",
